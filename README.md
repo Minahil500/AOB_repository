@@ -28,7 +28,7 @@ A web-based application for managing legal documents and regulations. The system
 9. **Login / Logout** — User authentication and session management.
 10. **Generate Password** — Password generation functionality.
 
-** Technologies Used**
+**Technologies Used**
 
 1. PHP
 2. MySQL
